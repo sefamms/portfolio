@@ -41,8 +41,8 @@ NE800-X8 , Zte ZXR10 M6000 series router**<br>
 
 
 
-## Blog Page 
-**⬇️<a href="https://sefa-memis.gitbook.io/blog/">Blog/></a>**<br>
+## My Blog Page 
+**⬇️<a href="https://sefa-memis.gitbook.io/blog/">Blog</a>**<br>
 
 ## CONTACT DETAILS
 
