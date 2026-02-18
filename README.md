@@ -18,7 +18,7 @@ environmet
 
 ## Skills
 
-**- IP/Mpls Core Network Management and troubleshooting**
+**- IP/Mpls Core Network Management and troubleshooting** <br>
 **-L2/L3 tests with Spirent Traffic Generator and L4-L7 test with
 Cyberflood**
 **-Installing and Configuring Nokia 7750 SR , Huawei NE40E-X8 and
