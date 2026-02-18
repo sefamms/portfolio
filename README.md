@@ -53,10 +53,6 @@ NE800-X8 , Zte ZXR10 M6000 series router**<br>
       <td><a href="mailto:smemis412@gmail.com">smemis412@gmail.com</a></td>
     </tr>
     <tr>
-      <td>⬇️</td>
-      <td><a href="https://sefamms.github.io/portfolio/docs/Profile.pdf">Download my CV</a></td>
-    </tr>
-    <tr>
       <td>🌐</td>
       <td><a href="https://linkedin.com/in/sefa-memis">Linkedn</a></td>
     </tr>
